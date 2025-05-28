@@ -36,7 +36,7 @@ Each method includes in-line comments with time complexity analysis (e.g., `O(V 
 
 ## Background
 
-This project was developed as part of CSCI 2110 assignment
+This project was developed as part of CSCI 2110 Data Structures & Algorithms assignment
 
 ## How to Run
 
